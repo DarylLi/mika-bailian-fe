@@ -1,0 +1,6 @@
+.cm-editor{
+    outline: 0px!important;
+    .cm-gutters{
+        display: none;
+    }
+}
